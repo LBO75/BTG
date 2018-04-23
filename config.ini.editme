@@ -110,6 +110,7 @@ ransomwaretracker_enabled = True
 [Viper]
 viper_enabled = False
 viper_server = None
+viper_api_key = None
 
 [Virusshare]
 virusshare_enabled = False
